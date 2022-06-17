@@ -1,0 +1,187 @@
+body{
+    background-color: rgb(226, 239, 240);
+}
+.fullproject{
+   
+    margin: auto;
+    width: 1100px;
+}
+.name{
+    margin: 50px 0px 0px 0px;
+    padding: 56px 0 0 0;
+}
+.name h6{
+    font-size: 46px;
+    color: #2294f5;
+}
+.name p{
+    font-size: 33px;
+    margin: 12px 0px 0px 0px;
+}
+.personal a{
+    font-size: 28px;
+    margin: 3px 10px 3px 10px;
+}
+.summary{
+
+}
+.summary h2{
+    font-size: 30px;
+    margin-top: 12px;
+    color: #2294f5;
+}
+.summary p{
+    padding: 23px 84px 4px 113px;
+    font-size: 21px;
+    line-height: 28px;
+}
+.professional{
+
+}
+.profes1 h3 h4 ul li{
+
+}
+.profes2 h3 h4 p ul li{
+
+}
+.education{
+    font-size: 30px;
+    margin: 50px 0px 0px 86px;
+}
+.education h2{
+    color: #2294f5;
+}
+table{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 43px;
+    width: 85%;
+
+    
+}
+table, tr, th, td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.name1{
+    display: flex;
+    margin: 0px 0px 0px 70px;
+}
+.summary1{
+    display: flex;
+    margin: 30px 0px 0px 90px;
+}
+.name2{
+    margin: 75px 0px 0px 0px;
+}
+.name2 p{
+    background-color: blue;
+    width: 5px;
+    height: 100px;
+    padding: 0px 0 0px 5px;
+    margin: 25px 20px 0 6px;
+}
+.personal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin: 28px 0px 0px 30px;
+    padding: 5px 0px;
+}
+.personal a{
+    text-decoration: none;
+}
+.summary2 p{
+    background-color: blue;
+    width: 5px;
+    height: 50px;
+    padding: 0px 0 0px 5px;
+    margin: 0px 15px 0 0;
+}
+.profes12{
+    display: flex;
+    margin: 34px 0px 0px 90px;
+}
+.profes13 p{
+    background-color: blue;
+    width: 5px;
+    height: 50px;
+    padding: 0px 0 0px 5px;
+    margin: 0px 15px 0 0;
+}
+.profes14 h1{
+    margin: 10px 0 44px 0;
+    font-size: 30px;
+    color: #2294f5;
+    letter-spacing: 2px;
+}
+.profes15 h3{
+    margin: -16px 0px 24px 92px;
+    color: #2294f5;
+    font-size: 24px;
+}
+.profes15 h2{
+      margin: -16px 0px 24px 92px;
+      color: #2294f5;
+    font-size: 24px;
+}
+.professional h2 p{
+    margin-left: 95px;
+    font-size: 27px;
+}
+.professional ul li{
+    font-size: 22px;
+    margin: 30px 0px -18px 147px;
+}
+.profes2{
+
+}
+.profes2 h3{
+    margin: 50px 0px 23px 95px;
+    font-size: 27px;
+    color: #2294f5;
+}
+.profes2 h4{
+    margin: -2px 0px 25px 95px;
+    color: #2294f5;
+    font-size: 27px;
+}
+.profes2 p{
+    margin: 7px 27px 10px 150px;
+    font-size: 22px;
+}
+.contact{
+
+}
+.contact h2{
+    margin: 0px 0px 30px 80px;
+    color: #2294f5;
+    font-size: 30px;
+}
+.contact form{
+    margin: 0 150px;    
+}
+.contact input{
+    width: 135px;
+    display: inline-block;
+    margin: 0 0 10px 50px;
+}
+button{
+ 
+}
+.contact .username{
+    font-size: 30px;
+}
+.contact .phone{
+    font-size: 30px;
+}
+.contact .address{
+    font-size: 30px;
+}
+.contact .email{
+    font-size: 30px;
+}
+.username{
+    
+}
